@@ -1,0 +1,1 @@
+## Small TypeScript projects done while learning the language
